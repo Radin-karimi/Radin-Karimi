@@ -9,6 +9,10 @@
 <h1 align="center">Radin (Frank) 👨‍💻</h1>
 
 <p align="center">
+  <i>“Code is not just logic, it's engineering mindset.”</i>
+</p>
+
+<p align="center">
   <b>Software Engineer</b> • <b>Cybersecurity Researcher</b> • <b>Open Source Developer</b>
 </p>
 
@@ -34,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python • Java • Kotlin • JavaScript • C • C++ • PHP • HTML • CSS
+Python • Java • Kotlin • JavaScript • C / C++ • PHP • HTML • CSS
 
 **Focus Areas**
 - Backend Development
@@ -46,28 +50,21 @@
 
 ## 📬 Connect With Me
 
-💬 Rubika → [@Frank_info](https://rubika.ir/Frank_info)  
-✈️ Telegram → [@TeFrank](https://t.me/TeFrank)  
-📧 Email → **Radin.Karimi.pro@gmail.com**
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubiko-Radinkarimi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rubiko-Radinkarimi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiko-Radinkarimi&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://rubika.ir/Frank_info">
+    <img src="https://img.shields.io/badge/Rubika-Profile-orange?style=for-the-badge">
+  </a>
+  <a href="https://t.me/TeFrank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="mailto:Radin.Karimi.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="Radiniran.png" alt="Iran Flag" width="25"><br>
   <b>IRAN</b>
 </p>
